@@ -1,4 +1,3 @@
-
 public class Cryptor {
 
 	LinkedQueue<Integer> queue;
