@@ -1,7 +1,5 @@
-import java.util.LinkedList;
 
 public class LinkedQueue<E> implements Queue<E> {
-	private LinkedList<E> queue = new LinkedList<E>();
 	private LinkedStack<E> s1 = new LinkedStack<>();
 	private LinkedStack<E> s2 = new LinkedStack<>();
 	
